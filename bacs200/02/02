@@ -2,11 +2,11 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Aaron Rodgers</title>
+        <title>Martin Luther King, Jr.</title>
     </head>
     <body>
-        <h1>Aaron Rodgers</h1>
-        <img src="https://i.insider.com/5e1be1e5b2e66a259b3216d2?width=1100&format=jpeg&auto=webp" alt="MLK">
+        <h1>Martin Luther King, Jr.</h1>
+        <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NTU2MzE2MjgwNDg5NDgz/martin-luther-king-jr-9365086-2-402.jpg" alt="MLK">
         <p>
             What makes a hero?  A hero is someone that we look up to.
             Heroes embody what we truly value most.  Therefore who we select as
@@ -18,12 +18,17 @@
         <ul>
             <li>Outrageously courageous - they disturb the status quo and define a new normal</li>
             <li>Motivate others - people follow a great leader</li>
-            <li>Face adversity</li>
+            <li>Big footprint - impact on millions and change the world</li>
             <li>Sacrifice & commitment - their impact usually costs them everything</li>
             <li>Integrity - they live true to their calling</li>
         </ul>
         <p>
-            Aaron Rodgers is my inspiration. I am a big Packers fan and I have watched him play my entire life and I think he has a great story. He was a small kid from chico California and did not receive a division one offer out of high school. He then went to Cal after going to a community college and played great. In the NFL draft he was supposed to be drafted number 1 overall but fell in the draft to Green Bay. Aaron Rodgers was doubted his entire life and then he came into the NFL and became one of the greatest QBs of all time.
+            Over the last 100 years no man exemplifies these values for me more than
+            Martin Luther King.  He called people to be accountable for the racial
+            prejudices that we all carry.   He demonstrated that violence is not the
+            best way to create lasting change. And throughout his life he sacrificed
+            everything to make the world better.
         </p>
+        <p><a href="https://www.biography.com/activist/martin-luther-king-jr">Learn More ...</a></p>
     </body>
 </html>
